@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "project": "hn-opportunity-radar",
+  "tracking_start": "2026-02-07",
+  
+  "metrics": {
+    "landing_page_views": 0,
+    "email_signups": 0,
+    "pro_conversions": 0,
+    "mrr": 0,
+    "twitter_followers": 0,
+    "indie_hackers_upvotes": 0
+  },
+  
+  "daily_log": [],
+  
+  "milestones": [
+    {"target": "10 subscribers", "date": null, "achieved": false},
+    {"target": "100 subscribers", "date": null, "achieved": false},
+    {"target": "$100 MRR", "date": null, "achieved": false},
+    {"target": "$500 MRR", "date": null, "achieved": false},
+    {"target": "$1000 MRR", "date": null, "achieved": false}
+  ],
+  
+  "last_updated": "2026-02-07T20:52:00Z"
+}
